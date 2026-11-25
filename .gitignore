@@ -1,0 +1,12 @@
+# Originales y referencias internas del cliente
+referencias/
+# Documentación interna de preparación y reglas locales de agentes
+/docs/
+/README.md
+/AGENTS.md
+/.agents/
+.env*
+!.env.example
+node_modules/
+.next/
+.vercel/
